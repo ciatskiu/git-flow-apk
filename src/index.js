@@ -1,1 +1,1 @@
-console.log("Hello World altera na Initial Feature");
+console.log("Hello World altera na Initial Feature de novo sempre");
