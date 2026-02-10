@@ -1,3 +1,3 @@
 console.log("Hello World!");
 
-console.log("Nova funcionalidade em Feature");
+console.log("Nova funcionalidade");
